@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Ucuncu</h1>
-<h3 align="center">I'm a dedicated Data Scientist with a strong passion for Machine Learning, Data Science, and Power BI. My expertise lies in turning raw data into meaningful insights and developing innovative models to tackle complex, real-world challenges.</h3>
+<h3 align="center">I'm a dedicated Data Scientist with a strong passion for Machine Learning, Data Science, and BI. My expertise lies in turning raw data into meaningful insights and developing innovative models to tackle complex, real-world challenges.</h3>
 
 
 
